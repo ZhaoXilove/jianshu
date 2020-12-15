@@ -1,10 +1,16 @@
-# jianshu(简书)
+# JianShu(简书)
+
+#### 项目初衷
+
+```
+进一步学习React体系
+```
 
 #### 技术栈
 
 React + React Hooks + Typescript + Redux
 
-### GIT 相关
+#### GIT 相关
 
 GIT 提交信息示例：
 
