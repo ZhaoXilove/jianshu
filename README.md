@@ -1,2 +1,2 @@
 # jianshu
-react
+React + React Hooks + Typescript + Redux
