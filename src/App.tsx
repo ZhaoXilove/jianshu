@@ -1,13 +1,11 @@
 import React, { FC } from 'react'
-import MyTable from './components/MyTable'
-import { dataSource, columns } from './utils/data'
+import TodoList from './components/TodoList'
 import './App.css'
 const App: FC = () => {
-	const defaultPageSize = 2
 	return (
 		<>
 			<div className="App">
-				<MyTable dataSource={dataSource} columns={columns} defaultPageSize={defaultPageSize} />
+				<TodoList />
 			</div>
 		</>
 	)
